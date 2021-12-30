@@ -3,7 +3,7 @@
 
 <Loadout>
 		<Name>SoldierRoles.Rifleman</Name>
-		<Image>uitextures/roles/rifleman</Image>
+		<Image>uitextures/roles/square</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.rifle</RightHand>
 		<BeltItem>
