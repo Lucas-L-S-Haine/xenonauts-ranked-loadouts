@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<Loadouts>
+<Loadouts MODMERGE="replace">
 
-<Loadout>
+	<Loadout>
 		<Name>SoldierRoles.Rifleman</Name>
 		<Image>uitextures/roles/square</Image>
 		<Armour>armour.basic</Armour>
@@ -24,31 +24,31 @@
 			<Point>2,1</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>weapon.grenade.smoke</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>3,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>weapon.grenade.smoke</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>3,1</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>weapon.grenade.flashbang</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>4,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>weapon.grenade.flashbang</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>4,1</Point>
 		</BeltItem>
 		
 		<BackpackItem>
-			<Name>weapon.grenade.medipack</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>0,0</Point>
 		</BackpackItem>
 	</Loadout>
 	
 	<Loadout>
 		<Name>SoldierRoles.Assault</Name>
-		<Image>uitextures/roles/assault</Image>
+		<Image>uitextures/roles/rifleman</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.shotgun</RightHand>
 		<BeltItem>
@@ -69,30 +69,30 @@
 			<Point>2,1</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>weapon.grenade.smoke</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>3,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>weapon.grenade.smoke</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>3,1</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>weapon.grenade.flashbang</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>4,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>weapon.grenade.flashbang</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>4,1</Point>
 		</BeltItem>
 			<BackpackItem>
-			<Name>weapon.grenade.medipack</Name>
+			<Name>weapon.grenade.frag</Name>
 			<Point>0,0</Point>
 		</BackpackItem>
 	</Loadout>
 	
 	<Loadout>
 		<Name>SoldierRoles.Sniper</Name>
-		<Image>uitextures/roles/sniper</Image>
+		<Image>uitextures/roles/rifleman</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.sniper</RightHand>
 		<BeltItem>
@@ -125,7 +125,7 @@
 	
 	<Loadout>
 		<Name>SoldierRoles.HeavyWeapons</Name>
-		<Image>uitextures/roles/heavy</Image>
+		<Image>uitextures/roles/rifleman</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.machinegun</RightHand>
 		
@@ -141,7 +141,7 @@
 	
 	<Loadout>
 		<Name>SoldierRoles.Scout</Name>
-		<Image>uitextures/roles/commando</Image>
+		<Image>uitextures/roles/rifleman</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.pistol</RightHand>
 		
@@ -191,7 +191,7 @@
 	
 	<Loadout>
 		<Name>SoldierRoles.Shield</Name>
-		<Image>uitextures/roles/shield</Image>
+		<Image>uitextures/roles/assault</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.pistol</RightHand>
 		<LeftHand>weapon.combatshield</LeftHand>
@@ -225,7 +225,7 @@
 	
 	<Loadout>
 		<Name>SoldierRoles.Rocketeer</Name>
-		<Image>uitextures/roles/rocket</Image>
+		<Image>uitextures/roles/assault</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.rocketlauncher</RightHand>
 		
@@ -250,7 +250,7 @@
 
 	<Loadout>
 		<Name>SoldierRoles.Specialist</Name>
-		<Image>uitextures/roles/specialist</Image>
+		<Image>uitextures/roles/assault</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.rifle</RightHand>
 		
