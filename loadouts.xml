@@ -598,6 +598,7 @@
 		<Image>uitextures/roles/heavy</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.pistol</RightHand>
+		<LeftHand>weapon.grenade.medipack</LeftHand>
 		<BeltItem>
 			<Name>ammo.ballistic.pistol</Name>
 			<Point>0,0</Point>
@@ -630,6 +631,10 @@
 			<Name>weapon.grenade.smoke</Name>
 			<Point>4,1</Point>
 		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.grenade.medipack</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
 	</Loadout>
 	
 	<Loadout>
@@ -637,6 +642,7 @@
 		<Image>uitextures/roles/heavy</Image>
 		<Armour>armour.jackal</Armour>
 		<RightHand>weapon.laserpistol</RightHand>
+		<LeftHand>weapon.grenade.medipack</LeftHand>
 		<BeltItem>
 			<Name>ammo.laser.lasercell</Name>
 			<Point>0,0</Point>
@@ -669,6 +675,10 @@
 			<Name>weapon.grenade.smoke</Name>
 			<Point>4,1</Point>
 		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.grenade.medipack</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
 	</Loadout>
 
 	<Loadout>
@@ -676,6 +686,7 @@
 		<Image>uitextures/roles/heavy</Image>
 		<Armour>armour.buzzard</Armour>
 		<RightHand>weapon.plasmapistol</RightHand>
+		<LeftHand>weapon.grenade.medipack</LeftHand>
 		<BeltItem>
 			<Name>ammo.plasma.plasmacell</Name>
 			<Point>0,0</Point>
@@ -708,6 +719,10 @@
 			<Name>weapon.grenade.smoke</Name>
 			<Point>4,1</Point>
 		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.grenade.medipack</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
 	</Loadout>
 	
 	<Loadout>
@@ -715,6 +730,7 @@
 		<Image>uitextures/roles/heavy</Image>
 		<Armour>armour.sentinel</Armour>
 		<RightHand>weapon.MAGpistol</RightHand>
+		<LeftHand>weapon.grenade.medipack</LeftHand>
 		<BeltItem>
 			<Name>ammo.MAG.MAGclip</Name>
 			<Point>0,0</Point>
@@ -747,5 +763,9 @@
 			<Name>weapon.grenade.smoke</Name>
 			<Point>4,1</Point>
 		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.grenade.medipack</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
 	</Loadout>
 </Loadouts>
