@@ -97,47 +97,47 @@
 			<Column ss:AutoFitWidth="0" ss:Width="150"/>
 			<Column ss:AutoFitWidth="0" ss:Width="100"/>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">SoldierRoles.Idle</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.Rifleman</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Idle</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 			</Row>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">SoldierRoles.Rk.Rifleman</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.Assault</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Rk.Rifleman</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 			</Row>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">SoldierRoles.Jr.Rifleman</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.Sniper</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Jr. Rifleman</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 			</Row>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">SoldierRoles.Sr.Rifleman</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.HeavyWeapons</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Sr. Rifleman</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 			</Row>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">SoldierRoles.Ex.Rifleman</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.Scout</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Ex. Rifleman</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 			</Row>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">SoldierRoles.Rk.Assault</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.Shield</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Rk. Assault</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
 			</Row>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">SoldierRoles.Jr.Assault</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.Rocketeer</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Jr. Assault</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
 			</Row>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">SoldierRoles.Sr.Assault</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.Specialist</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Sr. Assault</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
 			</Row>
@@ -287,7 +287,7 @@
 					ss:Name="_FilterDatabase"/></Cell>
 			</Row>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">SoldierRoles.Rocketeer</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.RRocketeer</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Rocketeer</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
