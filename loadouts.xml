@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Loadouts MODMERGE="replace">
+<Loadouts MODMERGE="insertreplace">
 
 	<Loadout>
 		<Name>SoldierRoles.Rifleman</Name>
