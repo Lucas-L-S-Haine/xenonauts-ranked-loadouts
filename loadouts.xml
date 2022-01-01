@@ -326,4 +326,43 @@
 		</BeltItem>
 	</Loadout>
 	
+	<Loadout>
+		<Name>SoldierRoles.Ex.Assault</Name>
+		<Image>uitextures/roles/assault</Image>
+		<Armour>armour.basic</Armour>
+		<RightHand>weapon.MAGcarbine</RightHand>
+		<BeltItem>
+			<Name>ammo.MAG.MAGclip</Name>
+			<Point>0,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.MAG.MAGclip</Name>
+			<Point>1,0</Point>
+		</BeltItem>
+		
+		<BeltItem>
+			<Name>ammo.MAG.MAGclip</Name>
+			<Point>2,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.MAG.MAGclip</Name>
+			<Point>2,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.frag</Name>
+			<Point>3,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.frag</Name>
+			<Point>3,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.frag</Name>
+			<Point>4,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.frag</Name>
+			<Point>4,1</Point>
+		</BeltItem>
+	</Loadout>
 </Loadouts>
