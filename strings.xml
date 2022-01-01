@@ -97,7 +97,7 @@
 			<Column ss:AutoFitWidth="0" ss:Width="150"/>
 			<Column ss:AutoFitWidth="0" ss:Width="100"/>
 			<Row ss:AutoFitHeight="0">
-				<Cell><Data ss:Type="String">Idle</Data><NamedCell
+				<Cell><Data ss:Type="String">SoldierRoles.Idle</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
 				<Cell><Data ss:Type="String">Idle</Data><NamedCell
 					ss:Name="_FilterDatabase"/></Cell>
