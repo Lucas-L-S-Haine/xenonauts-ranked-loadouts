@@ -14,7 +14,6 @@
 			<Name>ammo.ballistic.rifle</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>weapon.grenade.frag</Name>
 			<Point>2,0</Point>
@@ -59,7 +58,6 @@
 			<Name>ammo.ballistic.rifle</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.ballistic.rifle</Name>
 			<Point>2,0</Point>
@@ -99,7 +97,6 @@
 			<Name>ammo.laser.lasercell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.laser.lasercell</Name>
 			<Point>2,0</Point>
@@ -139,7 +136,6 @@
 			<Name>ammo.plasma.plasmacell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.plasma.plasmacell</Name>
 			<Point>2,0</Point>
@@ -179,7 +175,6 @@
 			<Name>ammo.MAG.MAGclip</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.MAG.MAGclip</Name>
 			<Point>2,0</Point>
@@ -219,7 +214,6 @@
 			<Name>ammo.ballistic.shotgun</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.ballistic.shotgun</Name>
 			<Point>2,0</Point>
@@ -259,7 +253,6 @@
 			<Name>ammo.laser.lasercell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.laser.lasercell</Name>
 			<Point>2,0</Point>
@@ -299,7 +292,6 @@
 			<Name>ammo.plasma.plasmacell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.plasma.plasmacell</Name>
 			<Point>2,0</Point>
@@ -339,7 +331,6 @@
 			<Name>ammo.MAG.MAGclip</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.MAG.MAGclip</Name>
 			<Point>2,0</Point>
@@ -370,40 +361,27 @@
 		<Name>SoldierRoles.Rk.Sniper</Name>
 		<Image>uitextures/roles/sniper</Image>
 		<Armour>armour.basic</Armour>
-		<RightHand>weapon.shotgun</RightHand>
+		<RightHand>weapon.sniper</RightHand>
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.ballistic.sniper</Name>
 			<Point>0,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.ballistic.sniper</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.ballistic.sniper</Name>
 			<Point>2,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.ballistic.sniper</Name>
 			<Point>2,1</Point>
 		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>3,0</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>3,1</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>4,0</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>4,1</Point>
-		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.grenade.medipack</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
 	</Loadout>
 	
 	<Loadout>
@@ -419,7 +397,6 @@
 			<Name>ammo.laser.lasercell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.laser.lasercell</Name>
 			<Point>2,0</Point>
@@ -428,22 +405,10 @@
 			<Name>ammo.laser.lasercell</Name>
 			<Point>2,1</Point>
 		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>3,0</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>3,1</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>4,0</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>4,1</Point>
-		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.grenade.medipack</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
 	</Loadout>
 
 	<Loadout>
@@ -459,7 +424,6 @@
 			<Name>ammo.plasma.plasmacell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.plasma.plasmacell</Name>
 			<Point>2,0</Point>
@@ -468,22 +432,10 @@
 			<Name>ammo.plasma.plasmacell</Name>
 			<Point>2,1</Point>
 		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>3,0</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>3,1</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>4,0</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>4,1</Point>
-		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.grenade.medipack</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
 	</Loadout>
 	
 	<Loadout>
@@ -499,7 +451,6 @@
 			<Name>ammo.MAG.MAGclip</Name>
 			<Point>1,0</Point>
 		</BeltItem>
-		
 		<BeltItem>
 			<Name>ammo.MAG.MAGclip</Name>
 			<Point>2,0</Point>
@@ -508,21 +459,9 @@
 			<Name>ammo.MAG.MAGclip</Name>
 			<Point>2,1</Point>
 		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>3,0</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>3,1</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>4,0</Point>
-		</BeltItem>
-		<BeltItem>
-			<Name>weapon.grenade.frag</Name>
-			<Point>4,1</Point>
-		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.grenade.medipack</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
 	</Loadout>
 </Loadouts>
