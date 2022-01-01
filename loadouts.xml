@@ -90,22 +90,22 @@
 		<Name>SoldierRoles.Sniper</Name>
 		<Image>uitextures/roles/rifleman</Image>
 		<Armour>armour.basic</Armour>
-		<RightHand>weapon.rifle</RightHand>
+		<RightHand>weapon.laserrifle</RightHand>
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.laser.lasercell</Name>
 			<Point>0,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.laser.lasercell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
 		
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.laser.lasercell</Name>
 			<Point>2,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.laser.lasercell</Name>
 			<Point>2,1</Point>
 		</BeltItem>
 		<BeltItem>
@@ -130,22 +130,22 @@
 		<Name>SoldierRoles.HeavyWeapons</Name>
 		<Image>uitextures/roles/rifleman</Image>
 		<Armour>armour.basic</Armour>
-		<RightHand>weapon.rifle</RightHand>
+		<RightHand>weapon.plasmarifle</RightHand>
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.plasma.plasmacell</Name>
 			<Point>0,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.plasma.plasmacell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
 		
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.plasma.plasmacell</Name>
 			<Point>2,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.plasma.plasmacell</Name>
 			<Point>2,1</Point>
 		</BeltItem>
 		<BeltItem>
@@ -170,22 +170,22 @@
 		<Name>SoldierRoles.Scout</Name>
 		<Image>uitextures/roles/rifleman</Image>
 		<Armour>armour.basic</Armour>
-		<RightHand>weapon.rifle</RightHand>
+		<RightHand>weapon.MAGrifle</RightHand>
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.MAG.MAGclip</Name>
 			<Point>0,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.MAG.MAGclip</Name>
 			<Point>1,0</Point>
 		</BeltItem>
 		
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.MAG.MAGclip</Name>
 			<Point>2,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.rifle</Name>
+			<Name>ammo.MAG.MAGclip</Name>
 			<Point>2,1</Point>
 		</BeltItem>
 		<BeltItem>
@@ -250,22 +250,22 @@
 		<Name>SoldierRoles.Rocketeer</Name>
 		<Image>uitextures/roles/assault</Image>
 		<Armour>armour.basic</Armour>
-		<RightHand>weapon.shotgun</RightHand>
+		<RightHand>weapon.lasercarbine</RightHand>
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.laser.lasercell</Name>
 			<Point>0,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.laser.lasercell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
 		
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.laser.lasercell</Name>
 			<Point>2,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.laser.lasercell</Name>
 			<Point>2,1</Point>
 		</BeltItem>
 		<BeltItem>
@@ -290,22 +290,22 @@
 		<Name>SoldierRoles.Specialist</Name>
 		<Image>uitextures/roles/assault</Image>
 		<Armour>armour.basic</Armour>
-		<RightHand>weapon.shotgun</RightHand>
+		<RightHand>weapon.plasmacarbine</RightHand>
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.plasma.plasmacell</Name>
 			<Point>0,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.plasma.plasmacell</Name>
 			<Point>1,0</Point>
 		</BeltItem>
 		
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.plasma.plasmacell</Name>
 			<Point>2,0</Point>
 		</BeltItem>
 		<BeltItem>
-			<Name>ammo.ballistic.shotgun</Name>
+			<Name>ammo.plasma.plasmacell</Name>
 			<Point>2,1</Point>
 		</BeltItem>
 		<BeltItem>
