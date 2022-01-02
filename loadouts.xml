@@ -1303,4 +1303,31 @@
 			<Point>4,1</Point>
 		</BeltItem>
 	</Loadout>
+
+	<Loadout>
+		<Name>SoldierRoles.RRocketeer</Name>
+		<Image>uitextures/roles/rocket</Image>
+		<Armour>armour.basic</Armour>
+		<RightHand>weapon.rocketlauncher</RightHand>
+		<BackpackItem>
+			<Name>weapon.rocket.frag</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.rocket.frag</Name>
+			<Point>0,1</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.rocket.frag</Name>
+			<Point>0,2</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.rocket.frag</Name>
+			<Point>0,3</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.rocket.frag</Name>
+			<Point>0,4</Point>
+		</BackpackItem>
+	</Loadout>
 </Loadouts>
