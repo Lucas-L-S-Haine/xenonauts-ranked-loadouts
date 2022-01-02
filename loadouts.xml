@@ -595,7 +595,7 @@
 
 	<Loadout>
 		<Name>SoldierRoles.Rk.Medic</Name>
-		<Image>uitextures/roles/heavy</Image>
+		<Image>uitextures/roles/medic</Image>
 		<Armour>armour.basic</Armour>
 		<RightHand>weapon.pistol</RightHand>
 		<LeftHand>weapon.grenade.medipack</LeftHand>
@@ -639,7 +639,7 @@
 	
 	<Loadout>
 		<Name>SoldierRoles.Jr.Medic</Name>
-		<Image>uitextures/roles/heavy</Image>
+		<Image>uitextures/roles/medic</Image>
 		<Armour>armour.jackal</Armour>
 		<RightHand>weapon.laserpistol</RightHand>
 		<LeftHand>weapon.grenade.medipack</LeftHand>
@@ -683,7 +683,7 @@
 
 	<Loadout>
 		<Name>SoldierRoles.Sr.Medic</Name>
-		<Image>uitextures/roles/heavy</Image>
+		<Image>uitextures/roles/medic</Image>
 		<Armour>armour.buzzard</Armour>
 		<RightHand>weapon.plasmapistol</RightHand>
 		<LeftHand>weapon.grenade.medipack</LeftHand>
@@ -727,7 +727,7 @@
 	
 	<Loadout>
 		<Name>SoldierRoles.Ex.Medic</Name>
-		<Image>uitextures/roles/heavy</Image>
+		<Image>uitextures/roles/medic</Image>
 		<Armour>armour.sentinel</Armour>
 		<RightHand>weapon.MAGpistol</RightHand>
 		<LeftHand>weapon.grenade.medipack</LeftHand>
@@ -766,6 +766,213 @@
 		<BackpackItem>
 			<Name>weapon.grenade.medipack</Name>
 			<Point>0,0</Point>
+		</BackpackItem>
+	</Loadout>
+
+	<Loadout>
+		<Name>SoldierRoles.Rk.LightScout</Name>
+		<Image>uitextures/roles/commando</Image>
+		<Armour>armour.basic</Armour>
+		<RightHand>weapon.pistol</RightHand>
+		<BeltItem>
+			<Name>ammo.ballistic.pistol</Name>
+			<Point>0,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.ballistic.pistol</Name>
+			<Point>1,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.ballistic.pistol</Name>
+			<Point>2,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.ballistic.pistol</Name>
+			<Point>2,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>3,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>3,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>4,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>4,1</Point>
+		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,1</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,2</Point>
+		</BackpackItem>
+	</Loadout>
+	
+	<Loadout>
+		<Name>SoldierRoles.Jr.LightScout</Name>
+		<Image>uitextures/roles/commando</Image>
+		<Armour>armour.jackal</Armour>
+		<RightHand>weapon.laserpistol</RightHand>
+		<LeftHand>weapon.grenade.shockbaton</LeftHand>
+		<BeltItem>
+			<Name>ammo.laser.lasercell</Name>
+			<Point>0,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.laser.lasercell</Name>
+			<Point>1,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.laser.lasercell</Name>
+			<Point>2,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.laser.lasercell</Name>
+			<Point>2,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>3,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>3,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>4,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>4,1</Point>
+		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,1</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,2</Point>
+		</BackpackItem>
+	</Loadout>
+
+	<Loadout>
+		<Name>SoldierRoles.Sr.LightScout</Name>
+		<Image>uitextures/roles/commando</Image>
+		<Armour>armour.buzzard</Armour>
+		<RightHand>weapon.plasmapistol</RightHand>
+		<LeftHand>weapon.grenade.shockbaton</LeftHand>
+		<BeltItem>
+			<Name>ammo.plasma.plasmacell</Name>
+			<Point>0,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.plasma.plasmacell</Name>
+			<Point>1,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.plasma.plasmacell</Name>
+			<Point>2,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.plasma.plasmacell</Name>
+			<Point>2,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>3,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>3,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>4,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>4,1</Point>
+		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,1</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,2</Point>
+		</BackpackItem>
+	</Loadout>
+	
+	<Loadout>
+		<Name>SoldierRoles.Ex.LightScout</Name>
+		<Image>uitextures/roles/commando</Image>
+		<Armour>armour.sentinel</Armour>
+		<RightHand>weapon.MAGpistol</RightHand>
+		<LeftHand>weapon.grenade.shockbaton</LeftHand>
+		<BeltItem>
+			<Name>ammo.MAG.MAGclip</Name>
+			<Point>0,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.MAG.MAGclip</Name>
+			<Point>1,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.MAG.MAGclip</Name>
+			<Point>2,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>ammo.MAG.MAGclip</Name>
+			<Point>2,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>3,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>3,1</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>4,0</Point>
+		</BeltItem>
+		<BeltItem>
+			<Name>weapon.grenade.flashbang</Name>
+			<Point>4,1</Point>
+		</BeltItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,0</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,1</Point>
+		</BackpackItem>
+		<BackpackItem>
+			<Name>weapon.explosive.C4</Name>
+			<Point>0,2</Point>
 		</BackpackItem>
 	</Loadout>
 </Loadouts>
