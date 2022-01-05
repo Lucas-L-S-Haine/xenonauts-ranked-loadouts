@@ -47,3 +47,8 @@ git clone https://github.com/Lucas-L-S-Haine/xenonauts-ranked-loadouts.git Ranke
 ```
 Or you can create a new folder, and copy the files `loadouts.xml`, `modinfo.xml`
 and `strings.xml`.
+
+---------
+Xenonauts is property of GoldHawk Interactive.
+This is un unofficial mod, and I'm not part of GoldHawk Interactive.
+To know more, visit [their website](https://www.xenonauts.com/).
