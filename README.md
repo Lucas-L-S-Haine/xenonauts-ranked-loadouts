@@ -38,3 +38,12 @@ To end the list there are rocketeers. They are not ranked because I can just
 change their armors individually, while there isn't a need to upgrade their
 weapons. They also don't carry pistols anymore to make room for a few more
 rockets, and because I can always pick an alien weapon from the ground.
+
+### Install:
+
+In order to install this mod, go to your mods folder and clone this repository.
+```
+git clone https://github.com/Lucas-L-S-Haine/xenonauts-ranked-loadouts.git RankedLoadous
+```
+Or you can create a new folder, and copy the files `loadouts.xml`, `modinfo.xml`
+and `strings.xml`.
